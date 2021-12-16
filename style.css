@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(255, 139, 139);
+}
+.ta0{
+    text-decoration: none;
+}
+.ta2{
+    text-align: center;
+    color: black;
+    background-color: rgb(81, 255, 0);
+}
+.ta5{
+    background-color: chocolate;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.ta6{
+    color: rgb(4, 0, 255);
+}
+.ta1{
+    text-decoration: none;
+}
+.ta8{
+    background-color: aqua;
+}
+.ta4{
+    background-color: rgb(0, 255, 85);
+}
+.t1{
+    color: blue;
+}
+.t2{
+    color: yellow;
+}
+.t3{
+    font-size: 70px;
+}
+table, th, td {
+    border: 2px solid rgb(0, 0, 0);
+  }
+.ttt{
+    text-align: center;
+    color: rgb(0, 4, 255);
+}
+.ttt1{
+    text-decoration: none;
+}
